@@ -1,26 +1,26 @@
 [
-    {
-        "id": 1,
-        "category": "Laptops"
-    },
-    {
-        "id": 2,
-        "category": "Phones"
-    },
-    {
-        "id": 3,
-        "category": "Accessories"
-    },
-    {
-        "id": 4,
-        "category": "Smart Watches"
-    },
-    {
-        "id": 5,
-        "category": "MacBook"
-    },
-    {
-        "id": 6,
-        "category": "iPhone"
-    }
+  {
+    "id": 2,
+    "category": "Laptops"
+  },
+  {
+    "id": 3,
+    "category": "Phones"
+  },
+  {
+    "id": 4,
+    "category": "Accessories"
+  },
+  {
+    "id": 5,
+    "category": "Smart Watches"
+  },
+  {
+    "id": 6,
+    "category": "MacBook"
+  },
+  {
+    "id": 7,
+    "category": "Other Gadgets"
+  }
 ]
